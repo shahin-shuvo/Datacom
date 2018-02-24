@@ -1,0 +1,3 @@
+file3 Time division multiplexing
+This is from file3
+lab task
